@@ -86,11 +86,6 @@
     "options": [],
     "strValue": "Text"
   },
-  "Exuberant_Leviathan_V8yP7dMTeH_CaDoodle_ConeBottom_Bottom": {
-    "name": "Exuberant_Leviathan_V8yP7dMTeH_CaDoodle_ConeBottom_Bottom",
-    "options": [],
-    "value": 10000
-  },
   "Bouncy_Sprite_CwS7nqib21TzCBYuJe45qxZHzaZjVKL3lZV7zuex_CaDoodle_CylinderGeneration_Sides": {
     "name": "Bouncy_Sprite_CwS7nqib21TzCBYuJe45qxZHzaZjVKL3lZV7zuex_CaDoodle_CylinderGeneration_Sides",
     "options": [
@@ -114,6 +109,11 @@
       "20"
     ],
     "value": 16000
+  },
+  "Exuberant_Leviathan_V8yP7dMTeH_CaDoodle_ConeBottom_Bottom": {
+    "name": "Exuberant_Leviathan_V8yP7dMTeH_CaDoodle_ConeBottom_Bottom",
+    "options": [],
+    "value": 10000
   },
   "Vibrant_Goblin_qJba6xFSIX_CaDoodle_TextGeneration_Value": {
     "name": "Vibrant_Goblin_qJba6xFSIX_CaDoodle_TextGeneration_Value",
@@ -226,6 +226,14 @@
     ],
     "strValue": "M3"
   },
+  "size": {
+    "name": "size",
+    "options": [
+      "120.0",
+      "1.0"
+    ],
+    "value": 20000
+  },
   "Peppy_Vortexer_4BgKTWDbII_CaDoodle_TextGeneration_Size": {
     "name": "Peppy_Vortexer_4BgKTWDbII_CaDoodle_TextGeneration_Size",
     "options": [
@@ -241,10 +249,29 @@
     ],
     "strValue": "AMT102_V"
   },
-  "Gleaming_Starship_GGGalDc8OW_CaDoodle_ConeTop_Top": {
-    "name": "Gleaming_Starship_GGGalDc8OW_CaDoodle_ConeTop_Top",
-    "options": [],
-    "value": 0
+  "Vivid_Hyperloop_Jjx8jbpKez_CaDoodle_TextGeneration_Size": {
+    "name": "Vivid_Hyperloop_Jjx8jbpKez_CaDoodle_TextGeneration_Size",
+    "options": [
+      "2x2x25_Aluminum",
+      "2x2x35_Aluminum",
+      "3x3x25_Aluminum",
+      "Aluminum 10",
+      "Aluminum 15",
+      "Aluminum 35",
+      "Aluminum 5",
+      "Steel 10",
+      "Steel 15",
+      "Steel 35",
+      "Steel 5"
+    ],
+    "strValue": "Steel 5"
+  },
+  "Sparkling_Teleporter_wz1vEGGU90_CaDoodle_TextGeneration_Size": {
+    "name": "Sparkling_Teleporter_wz1vEGGU90_CaDoodle_TextGeneration_Size",
+    "options": [
+      "lx_224"
+    ],
+    "strValue": "lx_224"
   },
   "Merry_Titan_iz96J8ssip_CaDoodle_ShereGeneration_Sides": {
     "name": "Merry_Titan_iz96J8ssip_CaDoodle_ShereGeneration_Sides",
@@ -270,29 +297,10 @@
     ],
     "value": 8000
   },
-  "Sparkling_Teleporter_wz1vEGGU90_CaDoodle_TextGeneration_Size": {
-    "name": "Sparkling_Teleporter_wz1vEGGU90_CaDoodle_TextGeneration_Size",
-    "options": [
-      "lx_224"
-    ],
-    "strValue": "lx_224"
-  },
-  "Vivid_Hyperloop_Jjx8jbpKez_CaDoodle_TextGeneration_Size": {
-    "name": "Vivid_Hyperloop_Jjx8jbpKez_CaDoodle_TextGeneration_Size",
-    "options": [
-      "2x2x25_Aluminum",
-      "2x2x35_Aluminum",
-      "3x3x25_Aluminum",
-      "Aluminum 10",
-      "Aluminum 15",
-      "Aluminum 35",
-      "Aluminum 5",
-      "Steel 10",
-      "Steel 15",
-      "Steel 35",
-      "Steel 5"
-    ],
-    "strValue": "Steel 5"
+  "Gleaming_Starship_GGGalDc8OW_CaDoodle_ConeTop_Top": {
+    "name": "Gleaming_Starship_GGGalDc8OW_CaDoodle_ConeTop_Top",
+    "options": [],
+    "value": 0
   },
   "Blooming_Minotaur_1lbIPqmZ6R00crqEE4JsQmmYypbZzvCkwZlDo0yv_CaDoodle_ShereGeneration_Sides": {
     "name": "Blooming_Minotaur_1lbIPqmZ6R00crqEE4JsQmmYypbZzvCkwZlDo0yv_CaDoodle_ShereGeneration_Sides",
@@ -428,6 +436,13 @@
     ],
     "value": 8000
   },
+  "Fabulous_Basilisk_kp59re57vW_CaDoodle_TextGeneration_Size": {
+    "name": "Fabulous_Basilisk_kp59re57vW_CaDoodle_TextGeneration_Size",
+    "options": [
+      "lx_224"
+    ],
+    "strValue": "lx_224"
+  },
   "Zappy_Wraith_v6alr7jNWL_CaDoodle_ShereGeneration_Sides": {
     "name": "Zappy_Wraith_v6alr7jNWL_CaDoodle_ShereGeneration_Sides",
     "options": [
@@ -451,13 +466,6 @@
       "20"
     ],
     "value": 8000
-  },
-  "Fabulous_Basilisk_kp59re57vW_CaDoodle_TextGeneration_Size": {
-    "name": "Fabulous_Basilisk_kp59re57vW_CaDoodle_TextGeneration_Size",
-    "options": [
-      "lx_224"
-    ],
-    "strValue": "lx_224"
   },
   "Elated_Griffin_Yvsz1X3svG_CaDoodle_CylinderGeneration_Sides": {
     "name": "Elated_Griffin_Yvsz1X3svG_CaDoodle_CylinderGeneration_Sides",
@@ -734,16 +742,6 @@
     ],
     "strValue": "v5_Vexnet"
   },
-  "Bubbly_Jetbike_8X6q656A0R_CaDoodle_TextGeneration_Size": {
-    "name": "Bubbly_Jetbike_8X6q656A0R_CaDoodle_TextGeneration_Size",
-    "options": [
-      "1_Post_Hex_Nut_Retainer",
-      "1_Post_Hex_Nut_Retainer_With_Bearing",
-      "4_Post_Hex_Nut_Retainer",
-      "Flat_Bearing"
-    ],
-    "strValue": "Flat_Bearing"
-  },
   "Joyous_Droid_BuwDF4g9Px_CaDoodle_CylinderGeneration_Sides": {
     "name": "Joyous_Droid_BuwDF4g9Px_CaDoodle_CylinderGeneration_Sides",
     "options": [
@@ -767,6 +765,16 @@
       "64"
     ],
     "value": 16000
+  },
+  "Bubbly_Jetbike_8X6q656A0R_CaDoodle_TextGeneration_Size": {
+    "name": "Bubbly_Jetbike_8X6q656A0R_CaDoodle_TextGeneration_Size",
+    "options": [
+      "1_Post_Hex_Nut_Retainer",
+      "1_Post_Hex_Nut_Retainer_With_Bearing",
+      "4_Post_Hex_Nut_Retainer",
+      "Flat_Bearing"
+    ],
+    "strValue": "Flat_Bearing"
   },
   "Bouncy_Nanobot_EIVWe97QGX_CaDoodle_TextGeneration_Size": {
     "name": "Bouncy_Nanobot_EIVWe97QGX_CaDoodle_TextGeneration_Size",
@@ -1144,6 +1152,11 @@
     ],
     "value": 16000
   },
+  "Inventive_Sprite_8N9ilC2nYp_CaDoodle_ToroidBottom_Outer": {
+    "name": "Inventive_Sprite_8N9ilC2nYp_CaDoodle_ToroidBottom_Outer",
+    "options": [],
+    "value": 10000
+  },
   "Vivacious_Centaur_cwgUszfSs5_CaDoodle_TextGeneration_Size": {
     "name": "Vivacious_Centaur_cwgUszfSs5_CaDoodle_TextGeneration_Size",
     "options": [
@@ -1160,11 +1173,6 @@
       "XL"
     ],
     "strValue": "XL"
-  },
-  "Inventive_Sprite_8N9ilC2nYp_CaDoodle_ToroidBottom_Outer": {
-    "name": "Inventive_Sprite_8N9ilC2nYp_CaDoodle_ToroidBottom_Outer",
-    "options": [],
-    "value": 10000
   },
   "Productive_Hologram_EfT9cQS1W2_CaDoodle_ToroidTop_Inner": {
     "name": "Productive_Hologram_EfT9cQS1W2_CaDoodle_ToroidTop_Inner",
@@ -1304,11 +1312,6 @@
     "options": [],
     "value": 3000
   },
-  "Zippy_Gravicycle_LCdhHoSB4m_CaDoodle_ConeBottom_Bottom": {
-    "name": "Zippy_Gravicycle_LCdhHoSB4m_CaDoodle_ConeBottom_Bottom",
-    "options": [],
-    "value": 10000
-  },
   "Scintillating_Forcefield_3qw7MsnWOH_CaDoodle_TextGeneration_Size": {
     "name": "Scintillating_Forcefield_3qw7MsnWOH_CaDoodle_TextGeneration_Size",
     "options": [
@@ -1319,6 +1322,11 @@
       "WPI-gb37y3530-50en"
     ],
     "strValue": "WPI-gb37y3530-50en"
+  },
+  "Zippy_Gravicycle_LCdhHoSB4m_CaDoodle_ConeBottom_Bottom": {
+    "name": "Zippy_Gravicycle_LCdhHoSB4m_CaDoodle_ConeBottom_Bottom",
+    "options": [],
+    "value": 10000
   },
   "Fertile_Yeti_O6fDYN3m2Ey6o2q1FnXAUlOph9DXUgVGzcqPasdz_CaDoodle_TextGeneration_Value": {
     "name": "Fertile_Yeti_O6fDYN3m2Ey6o2q1FnXAUlOph9DXUgVGzcqPasdz_CaDoodle_TextGeneration_Value",
@@ -1400,18 +1408,6 @@
     ],
     "strValue": "M3"
   },
-  "Copious_Droid_dIhvYCyv5X_CaDoodle_StarBottom_Inner": {
-    "name": "Copious_Droid_dIhvYCyv5X_CaDoodle_StarBottom_Inner",
-    "options": [
-      "0.0",
-      "0.25",
-      "0.5",
-      "0.75",
-      "0.9",
-      "1.0"
-    ],
-    "value": 500
-  },
   "Elated_Nanobot_CSXOazidQE_CaDoodle_CylinderHoleGeneration_Sides": {
     "name": "Elated_Nanobot_CSXOazidQE_CaDoodle_CylinderHoleGeneration_Sides",
     "options": [
@@ -1435,6 +1431,18 @@
       "64"
     ],
     "value": 16000
+  },
+  "Copious_Droid_dIhvYCyv5X_CaDoodle_StarBottom_Inner": {
+    "name": "Copious_Droid_dIhvYCyv5X_CaDoodle_StarBottom_Inner",
+    "options": [
+      "0.0",
+      "0.25",
+      "0.5",
+      "0.75",
+      "0.9",
+      "1.0"
+    ],
+    "value": 500
   },
   "Fecund_Gyrocar_yIG82Atb28_CaDoodle_CylinderGeneration_Sides": {
     "name": "Fecund_Gyrocar_yIG82Atb28_CaDoodle_CylinderGeneration_Sides",
@@ -2068,11 +2076,6 @@
     ],
     "value": 16000
   },
-  "Vibrant_Gravicycle_YKj1KtW5nk1zD1EiERmZJJrzFURtvqUWpoBS7Y10_CaDoodle_TextGeneration_Value": {
-    "name": "Vibrant_Gravicycle_YKj1KtW5nk1zD1EiERmZJJrzFURtvqUWpoBS7Y10_CaDoodle_TextGeneration_Value",
-    "options": [],
-    "strValue": "Text"
-  },
   "Effulgent_Gravicycle_kpHNBS2KBY_CaDoodle_CylinderGeneration_Sides": {
     "name": "Effulgent_Gravicycle_kpHNBS2KBY_CaDoodle_CylinderGeneration_Sides",
     "options": [
@@ -2096,6 +2099,29 @@
       "64"
     ],
     "value": 16000
+  },
+  "Vibrant_Gravicycle_YKj1KtW5nk1zD1EiERmZJJrzFURtvqUWpoBS7Y10_CaDoodle_TextGeneration_Value": {
+    "name": "Vibrant_Gravicycle_YKj1KtW5nk1zD1EiERmZJJrzFURtvqUWpoBS7Y10_CaDoodle_TextGeneration_Value",
+    "options": [],
+    "strValue": "Text"
+  },
+  "Scintillating_Ekranoplan_YXrBMQgda323YLOmmRAZdYCPNvH5D1vjjdBXFmM4_CaDoodle_ShereGeneration_Sides": {
+    "name": "Scintillating_Ekranoplan_YXrBMQgda323YLOmmRAZdYCPNvH5D1vjjdBXFmM4_CaDoodle_ShereGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "value": 8000
   },
   "Thriving_Behemoth_Hdi0VG7ndG_CaDoodle_TubeSide_Sides": {
     "name": "Thriving_Behemoth_Hdi0VG7ndG_CaDoodle_TubeSide_Sides",
@@ -2121,29 +2147,6 @@
     ],
     "value": 16000
   },
-  "Scintillating_Ekranoplan_YXrBMQgda323YLOmmRAZdYCPNvH5D1vjjdBXFmM4_CaDoodle_ShereGeneration_Sides": {
-    "name": "Scintillating_Ekranoplan_YXrBMQgda323YLOmmRAZdYCPNvH5D1vjjdBXFmM4_CaDoodle_ShereGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14"
-    ],
-    "value": 8000
-  },
-  "Euphoric_Juggernaut_7x1wRgL6Ab_CaDoodle_ConeTop_Top": {
-    "name": "Euphoric_Juggernaut_7x1wRgL6Ab_CaDoodle_ConeTop_Top",
-    "options": [],
-    "value": 0
-  },
   "Refulgent_Jetpack_P3qPv0qMTh_CaDoodle_CylinderGeneration_Sides": {
     "name": "Refulgent_Jetpack_P3qPv0qMTh_CaDoodle_CylinderGeneration_Sides",
     "options": [
@@ -2167,6 +2170,11 @@
       "64"
     ],
     "value": 16000
+  },
+  "Euphoric_Juggernaut_7x1wRgL6Ab_CaDoodle_ConeTop_Top": {
+    "name": "Euphoric_Juggernaut_7x1wRgL6Ab_CaDoodle_ConeTop_Top",
+    "options": [],
+    "value": 0
   },
   "Abundant_Segway_CVVR5ubmyr_CaDoodle_TextGeneration_Size": {
     "name": "Abundant_Segway_CVVR5ubmyr_CaDoodle_TextGeneration_Size",
@@ -2258,29 +2266,17 @@
     ],
     "strValue": "Arial"
   },
-  "Effulgent_Wraith_VHcnNs7Azm_CaDoodle_ShereGeneration_Sides": {
-    "name": "Effulgent_Wraith_VHcnNs7Azm_CaDoodle_ShereGeneration_Sides",
+  "Test_key_here_CaDoodle_ConeBottom_Inner": {
+    "name": "Test_key_here_CaDoodle_ConeBottom_Inner",
     "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "20"
+      "0.0",
+      "0.25",
+      "0.5",
+      "0.75",
+      "0.9",
+      "1.0"
     ],
-    "value": 8000
+    "value": 500
   },
   "Astounding_Android_EWmVhhvVFn_CaDoodle_CylinderGeneration_Sides": {
     "name": "Astounding_Android_EWmVhhvVFn_CaDoodle_CylinderGeneration_Sides",
@@ -2305,6 +2301,30 @@
       "64"
     ],
     "value": 16000
+  },
+  "Effulgent_Wraith_VHcnNs7Azm_CaDoodle_ShereGeneration_Sides": {
+    "name": "Effulgent_Wraith_VHcnNs7Azm_CaDoodle_ShereGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "value": 8000
   },
   "Vivid_Hovercraft_1GbmevgsSR_CaDoodle_TextGeneration_Font": {
     "name": "Vivid_Hovercraft_1GbmevgsSR_CaDoodle_TextGeneration_Font",
@@ -2422,8 +2442,8 @@
     ],
     "strValue": "Imp8"
   },
-  "Gleaming_Starship_GGGalDc8OW_CaDoodle_ConeSide_Sides": {
-    "name": "Gleaming_Starship_GGGalDc8OW_CaDoodle_ConeSide_Sides",
+  "Chirpy_Elf_d302mj0fT6_CaDoodle_TubeSide_Sides": {
+    "name": "Chirpy_Elf_d302mj0fT6_CaDoodle_TubeSide_Sides",
     "options": [
       "3",
       "4",
@@ -2446,8 +2466,8 @@
     ],
     "value": 16000
   },
-  "Chirpy_Elf_d302mj0fT6_CaDoodle_TubeSide_Sides": {
-    "name": "Chirpy_Elf_d302mj0fT6_CaDoodle_TubeSide_Sides",
+  "Gleaming_Starship_GGGalDc8OW_CaDoodle_ConeSide_Sides": {
+    "name": "Gleaming_Starship_GGGalDc8OW_CaDoodle_ConeSide_Sides",
     "options": [
       "3",
       "4",
@@ -2518,11 +2538,6 @@
     ],
     "value": 4000
   },
-  "Abundant_Android_PBWGwQbdZJ_CaDoodle_CylinderGeneration_Top": {
-    "name": "Abundant_Android_PBWGwQbdZJ_CaDoodle_CylinderGeneration_Top",
-    "options": [],
-    "value": 0
-  },
   "Glorious_Goliath_35k3rp27tp_CaDoodle_TextGeneration_Size": {
     "name": "Glorious_Goliath_35k3rp27tp_CaDoodle_TextGeneration_Size",
     "options": [
@@ -2542,10 +2557,10 @@
     ],
     "strValue": "M8"
   },
-  "Grand_Warpcraft_ygeYVyGOph_CaDoodle_TextGeneration_Value": {
-    "name": "Grand_Warpcraft_ygeYVyGOph_CaDoodle_TextGeneration_Value",
+  "Abundant_Android_PBWGwQbdZJ_CaDoodle_CylinderGeneration_Top": {
+    "name": "Abundant_Android_PBWGwQbdZJ_CaDoodle_CylinderGeneration_Top",
     "options": [],
-    "strValue": "Text"
+    "value": 0
   },
   "Glorious_Gremlin_dJbNnFAmKk_CaDoodle_ConeSide_Sides": {
     "name": "Glorious_Gremlin_dJbNnFAmKk_CaDoodle_ConeSide_Sides",
@@ -2570,6 +2585,11 @@
       "64"
     ],
     "value": 16000
+  },
+  "Grand_Warpcraft_ygeYVyGOph_CaDoodle_TextGeneration_Value": {
+    "name": "Grand_Warpcraft_ygeYVyGOph_CaDoodle_TextGeneration_Value",
+    "options": [],
+    "strValue": "Text"
   },
   "PhillipsRoundedHeadThreadFormingScrews Default": {
     "name": "PhillipsRoundedHeadThreadFormingScrews Default",
@@ -2813,6 +2833,30 @@
     ],
     "strValue": "tproSG90_1"
   },
+  "Chirpy_Imp_3gRLT5TEtu_CaDoodle_StarSide_Points": {
+    "name": "Chirpy_Imp_3gRLT5TEtu_CaDoodle_StarSide_Points",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "value": 6000
+  },
   "Blooming_Warpod_WV0gCHDLGbpdikMARa9Yvg7bpj1fprt6ge6I7CeD_CaDoodle_TextGeneration_Font": {
     "name": "Blooming_Warpod_WV0gCHDLGbpdikMARa9Yvg7bpj1fprt6ge6I7CeD_CaDoodle_TextGeneration_Font",
     "options": [
@@ -2840,30 +2884,6 @@
       "Arial"
     ],
     "strValue": "Arial"
-  },
-  "Chirpy_Imp_3gRLT5TEtu_CaDoodle_StarSide_Points": {
-    "name": "Chirpy_Imp_3gRLT5TEtu_CaDoodle_StarSide_Points",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "20"
-    ],
-    "value": 6000
   },
   "Chipper_Warpcraft_XgLJAUYDJj_CaDoodle_TextGeneration_Font": {
     "name": "Chipper_Warpcraft_XgLJAUYDJj_CaDoodle_TextGeneration_Font",
@@ -2945,13 +2965,13 @@
     ],
     "strValue": "Arial"
   },
-  "Profuse_Gyrocar_5BlO8IjxdC_CaDoodle_CylinderGeneration_Top": {
-    "name": "Profuse_Gyrocar_5BlO8IjxdC_CaDoodle_CylinderGeneration_Top",
+  "Effulgent_Jetbike_GJl8Bwf8oM_CaDoodle_ConeTop_Top": {
+    "name": "Effulgent_Jetbike_GJl8Bwf8oM_CaDoodle_ConeTop_Top",
     "options": [],
     "value": 0
   },
-  "Effulgent_Jetbike_GJl8Bwf8oM_CaDoodle_ConeTop_Top": {
-    "name": "Effulgent_Jetbike_GJl8Bwf8oM_CaDoodle_ConeTop_Top",
+  "Profuse_Gyrocar_5BlO8IjxdC_CaDoodle_CylinderGeneration_Top": {
+    "name": "Profuse_Gyrocar_5BlO8IjxdC_CaDoodle_CylinderGeneration_Top",
     "options": [],
     "value": 0
   },
@@ -3069,6 +3089,13 @@
     ],
     "value": 16000
   },
+  "Chirpy_Robot_gkimJHsPU2_CaDoodle_TextGeneration_Size": {
+    "name": "Chirpy_Robot_gkimJHsPU2_CaDoodle_TextGeneration_Size",
+    "options": [
+      "v5"
+    ],
+    "strValue": "v5"
+  },
   "Brilliant_Drone_I3xuFpW8PV_CaDoodle_CylinderGeneration_Sides": {
     "name": "Brilliant_Drone_I3xuFpW8PV_CaDoodle_CylinderGeneration_Sides",
     "options": [
@@ -3092,16 +3119,6 @@
       "64"
     ],
     "value": 16000
-  },
-  "Chirpy_Robot_gkimJHsPU2_CaDoodle_TextGeneration_Size": {
-    "options2": [
-      "v5"
-    ],
-    "name": "Chirpy_Robot_gkimJHsPU2_CaDoodle_TextGeneration_Size",
-    "options": [
-      "v5"
-    ],
-    "strValue": "v5"
   },
   "Teeming_Golem_cO7pApaiGI_CaDoodle_ShereGeneration_Sides": {
     "name": "Teeming_Golem_cO7pApaiGI_CaDoodle_ShereGeneration_Sides",
@@ -3189,6 +3206,14 @@
       "M8"
     ],
     "strValue": "M8"
+  },
+  "smaller size": {
+    "name": "smaller size",
+    "options": [
+      "120.0",
+      "1.0"
+    ],
+    "value": 12500
   },
   "Bouncy_Chimera_UitA3iD0ZN_CaDoodle_ConeSide_Sides": {
     "name": "Bouncy_Chimera_UitA3iD0ZN_CaDoodle_ConeSide_Sides",
@@ -3795,15 +3820,15 @@
     ],
     "strValue": "4inch13Roller"
   },
-  "Effervescent_Imp_1g7IOiKtHN_CaDoodle_ToroidTop_Inner": {
-    "name": "Effervescent_Imp_1g7IOiKtHN_CaDoodle_ToroidTop_Inner",
-    "options": [],
-    "value": 3000
-  },
   "Efflorescent_Phoenix_Wjn4EfI9xqSZfwVH4K2vvrxgIAbkes7Gxu7omRPh_CaDoodle_TextGeneration_Value": {
     "name": "Efflorescent_Phoenix_Wjn4EfI9xqSZfwVH4K2vvrxgIAbkes7Gxu7omRPh_CaDoodle_TextGeneration_Value",
     "options": [],
     "strValue": "Text"
+  },
+  "Effervescent_Imp_1g7IOiKtHN_CaDoodle_ToroidTop_Inner": {
+    "name": "Effervescent_Imp_1g7IOiKtHN_CaDoodle_ToroidTop_Inner",
+    "options": [],
+    "value": 3000
   },
   "Peppy_Phoenix_zF7OFGZemK_CaDoodle_ToroidTop_Inner": {
     "name": "Peppy_Phoenix_zF7OFGZemK_CaDoodle_ToroidTop_Inner",
@@ -3931,7 +3956,6 @@
     "value": 16000
   },
   "Productive_Chimera_1oz3x4y4BX_CaDoodle_TextGeneration_Value": {
-    "options2": [],
     "name": "Productive_Chimera_1oz3x4y4BX_CaDoodle_TextGeneration_Value",
     "options": [],
     "strValue": "Text"
@@ -4481,6 +4505,11 @@
       "Steel 5"
     ],
     "strValue": "Steel 5"
+  },
+  "Test_key_here_CaDoodle_ConeTop_Inner": {
+    "name": "Test_key_here_CaDoodle_ConeTop_Inner",
+    "options": [],
+    "value": 5000
   },
   "Profuse_Ogre_LfIeIB9h4v_CaDoodle_ShereGeneration_Sides": {
     "name": "Profuse_Ogre_LfIeIB9h4v_CaDoodle_ShereGeneration_Sides",
@@ -5720,15 +5749,15 @@
     ],
     "value": 16000
   },
-  "Radiant_Goblin_A8yZNQ53yu_CaDoodle_TextGeneration_Value": {
-    "name": "Radiant_Goblin_A8yZNQ53yu_CaDoodle_TextGeneration_Value",
-    "options": [],
-    "strValue": "Text"
-  },
   "Effulgent_Hologram_h5wxxsqDxx_CaDoodle_ToroidTop_Inner": {
     "name": "Effulgent_Hologram_h5wxxsqDxx_CaDoodle_ToroidTop_Inner",
     "options": [],
     "value": 3000
+  },
+  "Radiant_Goblin_A8yZNQ53yu_CaDoodle_TextGeneration_Value": {
+    "name": "Radiant_Goblin_A8yZNQ53yu_CaDoodle_TextGeneration_Value",
+    "options": [],
+    "strValue": "Text"
   },
   "Refulgent_Cerberus_4mqbpKxXqV_CaDoodle_ConeTop_Top": {
     "name": "Refulgent_Cerberus_4mqbpKxXqV_CaDoodle_ConeTop_Top",
@@ -5758,30 +5787,6 @@
     "options": [],
     "value": 3000
   },
-  "Snappy_Ogre_XcxVWplbiQ_CaDoodle_ConeSide_Sides": {
-    "name": "Snappy_Ogre_XcxVWplbiQ_CaDoodle_ConeSide_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "64"
-    ],
-    "value": 4000
-  },
   "Profuse_Titan_EOXBIeuT9I_CaDoodle_CylinderGeneration_Sides": {
     "name": "Profuse_Titan_EOXBIeuT9I_CaDoodle_CylinderGeneration_Sides",
     "options": [
@@ -5805,6 +5810,30 @@
       "64"
     ],
     "value": 16000
+  },
+  "Snappy_Ogre_XcxVWplbiQ_CaDoodle_ConeSide_Sides": {
+    "name": "Snappy_Ogre_XcxVWplbiQ_CaDoodle_ConeSide_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 4000
   },
   "Jubilant_Elf_p6ByTTUnDj_CaDoodle_TextGeneration_Size": {
     "name": "Jubilant_Elf_p6ByTTUnDj_CaDoodle_TextGeneration_Size",
@@ -5865,22 +5894,6 @@
     ],
     "strValue": "Arial"
   },
-  "Energetic_Jetbike_sYDpTfcaON_CaDoodle_CylinderGeneration_Sides": {
-    "name": "Energetic_Jetbike_sYDpTfcaON_CaDoodle_CylinderGeneration_Sides",
-    "options": [
-      "2",
-      "4",
-      "6",
-      "8",
-      "10",
-      "12",
-      "14",
-      "16",
-      "18",
-      "64"
-    ],
-    "value": 16000
-  },
   "Merry_Monowheel_DITR95qXM3_CaDoodle_CylinderGeneration_Sides": {
     "name": "Merry_Monowheel_DITR95qXM3_CaDoodle_CylinderGeneration_Sides",
     "options": [
@@ -5905,10 +5918,21 @@
     ],
     "value": 16000
   },
-  "Gleeful_Hovercraft_ZA4dWNx9NG_CaDoodle_ToroidTop_Inner": {
-    "name": "Gleeful_Hovercraft_ZA4dWNx9NG_CaDoodle_ToroidTop_Inner",
-    "options": [],
-    "value": 3000
+  "Energetic_Jetbike_sYDpTfcaON_CaDoodle_CylinderGeneration_Sides": {
+    "name": "Energetic_Jetbike_sYDpTfcaON_CaDoodle_CylinderGeneration_Sides",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8",
+      "10",
+      "12",
+      "14",
+      "16",
+      "18",
+      "64"
+    ],
+    "value": 16000
   },
   "nut Default": {
     "name": "nut Default",
@@ -5935,6 +5959,11 @@
       "M8"
     ],
     "strValue": "M8"
+  },
+  "Gleeful_Hovercraft_ZA4dWNx9NG_CaDoodle_ToroidTop_Inner": {
+    "name": "Gleeful_Hovercraft_ZA4dWNx9NG_CaDoodle_ToroidTop_Inner",
+    "options": [],
+    "value": 3000
   },
   "Sparkling_Centaur_7qkL8ZDeRs3axrxUB5hniyFKriXVVWSSK16Dglqs_CaDoodle_TextGeneration_Value": {
     "name": "Sparkling_Centaur_7qkL8ZDeRs3axrxUB5hniyFKriXVVWSSK16Dglqs_CaDoodle_TextGeneration_Value",
@@ -5981,30 +6010,6 @@
     ],
     "strValue": "v5_11w"
   },
-  "Grand_Aerotrain_A5fodcI86j_CaDoodle_CylinderHoleGeneration_Sides": {
-    "name": "Grand_Aerotrain_A5fodcI86j_CaDoodle_CylinderHoleGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "64"
-    ],
-    "value": 16000
-  },
   "Buoyant_Unicorn_UhB80oStE9zeMKrYF3Tx1jhBSZM08jow3lbTIRQn_CaDoodle_CylinderHoleGeneration_Sides": {
     "name": "Buoyant_Unicorn_UhB80oStE9zeMKrYF3Tx1jhBSZM08jow3lbTIRQn_CaDoodle_CylinderHoleGeneration_Sides",
     "options": [
@@ -6026,6 +6031,30 @@
       "18",
       "19",
       "20"
+    ],
+    "value": 16000
+  },
+  "Grand_Aerotrain_A5fodcI86j_CaDoodle_CylinderHoleGeneration_Sides": {
+    "name": "Grand_Aerotrain_A5fodcI86j_CaDoodle_CylinderHoleGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
     ],
     "value": 16000
   },
@@ -6113,37 +6142,13 @@
     "options": [],
     "value": 10000
   },
-  "Splendid_Aerosled_dCjHdJ7mWW_CaDoodle_CylinderHoleGeneration_Sides": {
-    "name": "Splendid_Aerosled_dCjHdJ7mWW_CaDoodle_CylinderHoleGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "64"
-    ],
-    "value": 16000
-  },
   "Animated_Sprite_FxSoxSNZHftk7640ehzJlO1uTLqagcZMk3F7tMi8_CaDoodle_TextGeneration_Value": {
     "name": "Animated_Sprite_FxSoxSNZHftk7640ehzJlO1uTLqagcZMk3F7tMi8_CaDoodle_TextGeneration_Value",
     "options": [],
     "strValue": "Text"
   },
-  "Glorious_Phantom_H8jQdhPbMO_CaDoodle_CylinderHoleGeneration_Sides": {
-    "name": "Glorious_Phantom_H8jQdhPbMO_CaDoodle_CylinderHoleGeneration_Sides",
+  "Splendid_Aerosled_dCjHdJ7mWW_CaDoodle_CylinderHoleGeneration_Sides": {
+    "name": "Splendid_Aerosled_dCjHdJ7mWW_CaDoodle_CylinderHoleGeneration_Sides",
     "options": [
       "3",
       "4",
@@ -6170,6 +6175,30 @@
     "name": "Exuberant_Hologram_1Z2TzxXwUl23kIbNTdH89t45aoxVj9axcJrOyryk_CaDoodle_TextGeneration_Value",
     "options": [],
     "strValue": "Text"
+  },
+  "Glorious_Phantom_H8jQdhPbMO_CaDoodle_CylinderHoleGeneration_Sides": {
+    "name": "Glorious_Phantom_H8jQdhPbMO_CaDoodle_CylinderHoleGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 16000
   },
   "Plentiful_Werewolf_F1beISD0r8_CaDoodle_TextGeneration_Size": {
     "name": "Plentiful_Werewolf_F1beISD0r8_CaDoodle_TextGeneration_Size",
@@ -7415,19 +7444,6 @@
     "strValue": "Text"
   },
   "vexLchannel Default": {
-    "options2": [
-      "2x2x25_Aluminum",
-      "2x2x35_Aluminum",
-      "3x3x25_Aluminum",
-      "Aluminum 10",
-      "Aluminum 15",
-      "Aluminum 35",
-      "Aluminum 5",
-      "Steel 10",
-      "Steel 15",
-      "Steel 35",
-      "Steel 5"
-    ],
     "name": "vexLchannel Default",
     "options": [
       "2x2x25_Aluminum",
@@ -7774,9 +7790,6 @@
     "strValue": "Torsion-dummmy"
   },
   "VexWireless Default": {
-    "options2": [
-      "v5_Vexnet"
-    ],
     "name": "VexWireless Default",
     "options": [
       "v5_Vexnet"
@@ -7784,30 +7797,6 @@
     "strValue": "v5_Vexnet"
   },
   "Productive_Chimera_1oz3x4y4BX_CaDoodle_TextGeneration_Font": {
-    "options2": [
-      "FreeMono Bold",
-      "DejaVu Sans Mono",
-      "FreeMono",
-      "DejaVu Sans Mono Bold",
-      "FreeMono Oblique",
-      "Liberation Serif",
-      "DejaVu Serif",
-      "FreeSerif Bold Italic",
-      "DejaVu Sans Bold",
-      "FreeSans Bold",
-      "FreeMono Bold Oblique",
-      "DejaVu Sans",
-      "Latin Modern Mono 10 Italic",
-      "FreeSerif Bold",
-      "FreeSans",
-      "FreeSans Oblique",
-      "FreeSerif Italic",
-      "Droid Sans Fallback",
-      "FreeSerif",
-      "FreeSans Bold Oblique",
-      "DejaVu Serif Bold",
-      "Arial"
-    ],
     "name": "Productive_Chimera_1oz3x4y4BX_CaDoodle_TextGeneration_Font",
     "options": [
       "FreeMono Bold",
@@ -8167,19 +8156,6 @@
     "value": 10000
   },
   "Lustrous_Griffin_gACYZjtqzE_CaDoodle_TextGeneration_Size": {
-    "options2": [
-      "2x2x25_Aluminum",
-      "2x2x35_Aluminum",
-      "3x3x25_Aluminum",
-      "Aluminum 10",
-      "Aluminum 15",
-      "Aluminum 35",
-      "Aluminum 5",
-      "Steel 10",
-      "Steel 15",
-      "Steel 35",
-      "Steel 5"
-    ],
     "name": "Lustrous_Griffin_gACYZjtqzE_CaDoodle_TextGeneration_Size",
     "options": [
       "2x2x25_Aluminum",
@@ -9054,6 +9030,14 @@
     ],
     "value": 16000
   },
+  "Timing Belt Length": {
+    "name": "Timing Belt Length",
+    "options": [
+      "1000",
+      "3"
+    ],
+    "value": 40000
+  },
   "Mirthful_Hoverbike_vZj26oI7ib_CaDoodle_CylinderHoleGeneration_Sides": {
     "name": "Mirthful_Hoverbike_vZj26oI7ib_CaDoodle_CylinderHoleGeneration_Sides",
     "options": [
@@ -9077,14 +9061,6 @@
       "64"
     ],
     "value": 16000
-  },
-  "Timing Belt Length": {
-    "name": "Timing Belt Length",
-    "options": [
-      "1000",
-      "3"
-    ],
-    "value": 40000
   },
   "Vivid_Hovercraft_1GbmevgsSR_CaDoodle_TextGeneration_Value": {
     "name": "Vivid_Hovercraft_1GbmevgsSR_CaDoodle_TextGeneration_Value",
@@ -9881,21 +9857,6 @@
     "strValue": "9mm"
   },
   "Euphoric_Warpod_0T5fbd1uMm_CaDoodle_TextGeneration_Size": {
-    "options2": [
-      "Aluminum 1x10",
-      "Aluminum 1x15",
-      "Aluminum 1x5",
-      "Aluminum 5x10",
-      "Aluminum 5x15",
-      "Aluminum 5x5",
-      "Steel 10x10",
-      "Steel 1x10",
-      "Steel 1x15",
-      "Steel 1x5",
-      "Steel 5x10",
-      "Steel 5x15",
-      "Steel 5x5"
-    ],
     "name": "Euphoric_Warpod_0T5fbd1uMm_CaDoodle_TextGeneration_Size",
     "options": [
       "Aluminum 1x10",
@@ -10789,12 +10750,6 @@
     "value": 10000
   },
   "Grand_Vortexer_hwlqjjv5Oc_CaDoodle_TextGeneration_Size": {
-    "options2": [
-      "2-inch",
-      "3-inch",
-      "4-inch",
-      "6-inch"
-    ],
     "name": "Grand_Vortexer_hwlqjjv5Oc_CaDoodle_TextGeneration_Size",
     "options": [
       "2-inch",
@@ -11870,14 +11825,6 @@
     "value": 4000
   },
   "vexWheels Default": {
-    "options2": [
-      "2.75inchSmooth",
-      "2_75InchOmni",
-      "3_25InchOmni",
-      "4InchOmni",
-      "4inchSmooth",
-      "4inchStandard"
-    ],
     "name": "vexWheels Default",
     "options": [
       "2.75inchSmooth",
@@ -12069,14 +12016,6 @@
     "strValue": "/home/hephaestus/Documents/CaDoodle-workspace/MyCaDoodleProjects/Doodle-5/Astounding_Submarine_h3Z5sfJ9wt.svg"
   },
   "Creative_Goliath_qFINHdhAkh_CaDoodle_TextGeneration_Size": {
-    "options2": [
-      "2.75inchSmooth",
-      "2_75InchOmni",
-      "3_25InchOmni",
-      "4InchOmni",
-      "4inchSmooth",
-      "4inchStandard"
-    ],
     "name": "Creative_Goliath_qFINHdhAkh_CaDoodle_TextGeneration_Size",
     "options": [
       "2.75inchSmooth",
@@ -12842,6 +12781,15 @@
     ],
     "strValue": "9vbattery"
   },
+  "vexMotor Default": {
+    "name": "vexMotor Default",
+    "options": [
+      "269",
+      "393",
+      "v5_11w"
+    ],
+    "strValue": "v5_11w"
+  },
   "Inventive_Hoverboard_yopRpLCaAztOucqDbvjixuF3Usg77Gs3fhv5GLzG_CaDoodle_ShereGeneration_Sides": {
     "name": "Inventive_Hoverboard_yopRpLCaAztOucqDbvjixuF3Usg77Gs3fhv5GLzG_CaDoodle_ShereGeneration_Sides",
     "options": [
@@ -12865,20 +12813,6 @@
       "20"
     ],
     "value": 8000
-  },
-  "vexMotor Default": {
-    "options2": [
-      "269",
-      "393",
-      "v5_11w"
-    ],
-    "name": "vexMotor Default",
-    "options": [
-      "269",
-      "393",
-      "v5_11w"
-    ],
-    "strValue": "v5_11w"
   },
   "Lively_Monorail_BYYApuGMft_CaDoodle_TextGeneration_Size": {
     "name": "Lively_Monorail_BYYApuGMft_CaDoodle_TextGeneration_Size",
@@ -13059,19 +12993,6 @@
     "value": 20000
   },
   "vexStandoff Default": {
-    "options2": [
-      "0.25 inch",
-      "0.5 inch",
-      "0.75 inch",
-      "1 inch",
-      "1.5 inch",
-      "2 inch",
-      "2.5 inch",
-      "3 inch",
-      "4 inch",
-      "5 inch",
-      "6 inch"
-    ],
     "name": "vexStandoff Default",
     "options": [
       "0.25 inch",
@@ -14511,17 +14432,17 @@
     ],
     "strValue": "M8"
   },
-  "Lush_Levitator_GMgcdcXmbP_CaDoodle_ConeBottom_Bottom": {
-    "name": "Lush_Levitator_GMgcdcXmbP_CaDoodle_ConeBottom_Bottom",
-    "options": [],
-    "value": 10000
-  },
   "joystickCovers Default": {
     "name": "joystickCovers Default",
     "options": [
       "nintendoSwitch"
     ],
     "strValue": "nintendoSwitch"
+  },
+  "Lush_Levitator_GMgcdcXmbP_CaDoodle_ConeBottom_Bottom": {
+    "name": "Lush_Levitator_GMgcdcXmbP_CaDoodle_ConeBottom_Bottom",
+    "options": [],
+    "value": 10000
   },
   "Clever_Phoenix_6zgyJANmmL_CaDoodle_TextGeneration_Value": {
     "name": "Clever_Phoenix_6zgyJANmmL_CaDoodle_TextGeneration_Value",
@@ -15711,9 +15632,6 @@
     "value": 8000
   },
   "VexBrain Default": {
-    "options2": [
-      "v5"
-    ],
     "name": "VexBrain Default",
     "options": [
       "v5"
@@ -15745,12 +15663,6 @@
     "value": 8000
   },
   "vex_Hex_Nut_Retainer Default": {
-    "options2": [
-      "1_Post_Hex_Nut_Retainer",
-      "1_Post_Hex_Nut_Retainer_With_Bearing",
-      "4_Post_Hex_Nut_Retainer",
-      "Flat_Bearing"
-    ],
     "name": "vex_Hex_Nut_Retainer Default",
     "options": [
       "1_Post_Hex_Nut_Retainer",
@@ -16210,6 +16122,14 @@
     ],
     "value": 16000
   },
+  "Foot Curvature": {
+    "name": "Foot Curvature",
+    "options": [
+      "10000",
+      "103.67255756846318"
+    ],
+    "value": 10000
+  },
   "Blithe_Drone_s5EpOx0WEQ_CaDoodle_ConeSide_Sides": {
     "name": "Blithe_Drone_s5EpOx0WEQ_CaDoodle_ConeSide_Sides",
     "options": [
@@ -16233,14 +16153,6 @@
       "64"
     ],
     "value": 16000
-  },
-  "Foot Curvature": {
-    "name": "Foot Curvature",
-    "options": [
-      "10000",
-      "103.67255756846318"
-    ],
-    "value": 10000
   },
   "Astounding_Forcefield_qZAKiifues_CaDoodle_TextGeneration_Size": {
     "name": "Astounding_Forcefield_qZAKiifues_CaDoodle_TextGeneration_Size",
@@ -16521,19 +16433,19 @@
     ],
     "value": 4000
   },
-  "Grand_Hobgoblin_hbsO2SypQ8_CaDoodle_TextGeneration_Size": {
-    "name": "Grand_Hobgoblin_hbsO2SypQ8_CaDoodle_TextGeneration_Size",
-    "options": [
-      "M3x16"
-    ],
-    "strValue": "M3x16"
-  },
   "omniWheelRoller Default": {
     "name": "omniWheelRoller Default",
     "options": [
       "4inch13Roller"
     ],
     "strValue": "4inch13Roller"
+  },
+  "Grand_Hobgoblin_hbsO2SypQ8_CaDoodle_TextGeneration_Size": {
+    "name": "Grand_Hobgoblin_hbsO2SypQ8_CaDoodle_TextGeneration_Size",
+    "options": [
+      "M3x16"
+    ],
+    "strValue": "M3x16"
   },
   "Exuberant_Centaur_ReaQxPxsLE_CaDoodle_TextGeneration_Value": {
     "name": "Exuberant_Centaur_ReaQxPxsLE_CaDoodle_TextGeneration_Value",
@@ -16661,9 +16573,6 @@
     "strValue": "lx_224"
   },
   "Jocund_Ifrit_JWR2sZeo4i_CaDoodle_TextGeneration_Size": {
-    "options2": [
-      "v5_Vexnet"
-    ],
     "name": "Jocund_Ifrit_JWR2sZeo4i_CaDoodle_TextGeneration_Size",
     "options": [
       "v5_Vexnet"
@@ -17092,9 +17001,6 @@
     "strValue": "Steel 2x15"
   },
   "Effulgent_Dragon_o0sPpDUKlo_CaDoodle_TextGeneration_Size": {
-    "options2": [
-      "v5_14wh"
-    ],
     "name": "Effulgent_Dragon_o0sPpDUKlo_CaDoodle_TextGeneration_Size",
     "options": [
       "v5_14wh"
@@ -17235,27 +17141,6 @@
     "strValue": "Text"
   },
   "Exuberant_Cyborg_NNklY1PC7o_CaDoodle_TextGeneration_Size": {
-    "options2": [
-      "Aluminum 2x15",
-      "Aluminum 2x35",
-      "Aluminum 3x15",
-      "Aluminum 3x35",
-      "Aluminum 3x5",
-      "Aluminum 5x15",
-      "Aluminum 5x35",
-      "Aluminum 5x5",
-      "Aluminum_1x2x10",
-      "Aluminum_1x2x25",
-      "Steel 2x15",
-      "Steel 2x35",
-      "Steel 2x5",
-      "Steel 3x15",
-      "Steel 3x35",
-      "Steel 3x5",
-      "Steel 5x15",
-      "Steel 5x35",
-      "Steel 5x5"
-    ],
     "name": "Exuberant_Cyborg_NNklY1PC7o_CaDoodle_TextGeneration_Size",
     "options": [
       "Aluminum 2x15",
@@ -17305,13 +17190,6 @@
     "value": 16000
   },
   "vexSpacer Default": {
-    "options2": [
-      "oneEighth",
-      "oneHalf",
-      "oneQuater",
-      "threeEighth",
-      "washer"
-    ],
     "name": "vexSpacer Default",
     "options": [
       "oneEighth",
@@ -18562,12 +18440,6 @@
     "strValue": "Arial"
   },
   "Marvelous_Juggernaut_zVKyht2DOq_CaDoodle_TextGeneration_Size": {
-    "options2": [
-      "1_Post_Hex_Nut_Retainer",
-      "1_Post_Hex_Nut_Retainer_With_Bearing",
-      "4_Post_Hex_Nut_Retainer",
-      "Flat_Bearing"
-    ],
     "name": "Marvelous_Juggernaut_zVKyht2DOq_CaDoodle_TextGeneration_Size",
     "options": [
       "1_Post_Hex_Nut_Retainer",
@@ -19664,6 +19536,13 @@
     ],
     "value": 8000
   },
+  "roundMotor Default": {
+    "name": "roundMotor Default",
+    "options": [
+      "WPI-gb37y3530-50en"
+    ],
+    "strValue": "WPI-gb37y3530-50en"
+  },
   "Wonderful_Siren_ThGsUbFjfc2Lf9HrPCP26C7Nv2AQPlTIjKKMO6D9_CaDoodle_CylinderGeneration_Sides": {
     "name": "Wonderful_Siren_ThGsUbFjfc2Lf9HrPCP26C7Nv2AQPlTIjKKMO6D9_CaDoodle_CylinderGeneration_Sides",
     "options": [
@@ -19715,13 +19594,6 @@
       "Arial"
     ],
     "strValue": "Arial"
-  },
-  "roundMotor Default": {
-    "name": "roundMotor Default",
-    "options": [
-      "WPI-gb37y3530-50en"
-    ],
-    "strValue": "WPI-gb37y3530-50en"
   },
   "Fabulous_Thunderbird_Qe0eHm44bj_CaDoodle_TextGeneration_Size": {
     "name": "Fabulous_Thunderbird_Qe0eHm44bj_CaDoodle_TextGeneration_Size",
@@ -20748,6 +20620,13 @@
     ],
     "value": 500
   },
+  "conePointSetScrew Default": {
+    "name": "conePointSetScrew Default",
+    "options": [
+      "M3x8"
+    ],
+    "strValue": "M3x8"
+  },
   "Brilliant_Nanobot_318KBJS8ub_CaDoodle_ShereGeneration_Sides": {
     "name": "Brilliant_Nanobot_318KBJS8ub_CaDoodle_ShereGeneration_Sides",
     "options": [
@@ -20771,13 +20650,6 @@
       "20"
     ],
     "value": 8000
-  },
-  "conePointSetScrew Default": {
-    "name": "conePointSetScrew Default",
-    "options": [
-      "M3x8"
-    ],
-    "strValue": "M3x8"
   },
   "compressionSpring Default": {
     "name": "compressionSpring Default",
@@ -23780,11 +23652,6 @@
     ],
     "strValue": "v5_14wh"
   },
-  "Magnificent_Forcefield_5Cc81f8zFB_CaDoodle_TextGeneration_Value": {
-    "name": "Magnificent_Forcefield_5Cc81f8zFB_CaDoodle_TextGeneration_Value",
-    "options": [],
-    "strValue": "Text"
-  },
   "brushlessMotor Default": {
     "name": "brushlessMotor Default",
     "options": [
@@ -23794,6 +23661,11 @@
       "sunnysky_x2204"
     ],
     "strValue": "sunnysky_x2204"
+  },
+  "Magnificent_Forcefield_5Cc81f8zFB_CaDoodle_TextGeneration_Value": {
+    "name": "Magnificent_Forcefield_5Cc81f8zFB_CaDoodle_TextGeneration_Value",
+    "options": [],
+    "strValue": "Text"
   },
   "Magnificent_Ekranoplan_d4THY8dPCf_CaDoodle_ShereGeneration_Sides": {
     "name": "Magnificent_Ekranoplan_d4THY8dPCf_CaDoodle_ShereGeneration_Sides",
@@ -24181,6 +24053,30 @@
       "Arial"
     ],
     "strValue": "Arial"
+  },
+  "Test_key_here_CaDoodle_ConeSide_Sides": {
+    "name": "Test_key_here_CaDoodle_ConeSide_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 16000
   },
   "Chirpy_Phantom_X3hiEnJSeo_CaDoodle_TubeSide_Sides": {
     "name": "Chirpy_Phantom_X3hiEnJSeo_CaDoodle_TubeSide_Sides",
@@ -24979,12 +24875,6 @@
     "value": 16000
   },
   "vexShaft Default": {
-    "options2": [
-      "2-inch",
-      "3-inch",
-      "4-inch",
-      "6-inch"
-    ],
     "name": "vexShaft Default",
     "options": [
       "2-inch",
@@ -25073,6 +24963,18 @@
     "name": "Creative_Sasquatch_5EcwItfXdT_CaDoodle_Tube_Wall",
     "options": [],
     "value": 2500
+  },
+  "Test_key_here_CaDoodle_StarBottom_Inner": {
+    "name": "Test_key_here_CaDoodle_StarBottom_Inner",
+    "options": [
+      "0.0",
+      "0.25",
+      "0.5",
+      "0.75",
+      "0.9",
+      "1.0"
+    ],
+    "value": 500
   },
   "Creative_Hoversuit_vXGzyKAi1j_CaDoodle_ShereGeneration_Sides": {
     "name": "Creative_Hoversuit_vXGzyKAi1j_CaDoodle_ShereGeneration_Sides",
@@ -26535,17 +26437,6 @@
     "value": 16000
   },
   "Gleeful_Elemental_alA0kd9nAO_CaDoodle_TextGeneration_Size": {
-    "options2": [
-      "12T",
-      "15T",
-      "36T",
-      "60T",
-      "84T",
-      "HS12T",
-      "HS36T",
-      "HS60T",
-      "HS84T"
-    ],
     "name": "Gleeful_Elemental_alA0kd9nAO_CaDoodle_TextGeneration_Size",
     "options": [
       "12T",
@@ -27178,6 +27069,11 @@
     ],
     "strValue": "Pololu35x26"
   },
+  "Test_key_here_CaDoodle_StarTop_Outer": {
+    "name": "Test_key_here_CaDoodle_StarTop_Outer",
+    "options": [],
+    "value": 20000
+  },
   "Fecund_Hobgoblin_z6wxA5Fs8W_CaDoodle_TextGeneration_Size": {
     "name": "Fecund_Hobgoblin_z6wxA5Fs8W_CaDoodle_TextGeneration_Size",
     "options": [
@@ -27260,6 +27156,22 @@
     ],
     "value": 16000
   },
+  "hobbyServo Default": {
+    "name": "hobbyServo Default",
+    "options": [
+      "DHV56mg_sub_Micro",
+      "fs90r",
+      "hv5932mg",
+      "hv6214mg",
+      "mg92b",
+      "standard",
+      "standardMicro",
+      "towerProMG91",
+      "tproSG90",
+      "tproTG90"
+    ],
+    "strValue": "tproTG90"
+  },
   "Imaginative_Gremlin_2LsZ8iDQLG_CaDoodle_CylinderGeneration_Sides": {
     "name": "Imaginative_Gremlin_2LsZ8iDQLG_CaDoodle_CylinderGeneration_Sides",
     "options": [
@@ -27283,22 +27195,6 @@
       "64"
     ],
     "value": 16000
-  },
-  "hobbyServo Default": {
-    "name": "hobbyServo Default",
-    "options": [
-      "DHV56mg_sub_Micro",
-      "fs90r",
-      "hv5932mg",
-      "hv6214mg",
-      "mg92b",
-      "standard",
-      "standardMicro",
-      "towerProMG91",
-      "tproSG90",
-      "tproTG90"
-    ],
-    "strValue": "tproTG90"
   },
   "Dazzling_Siren_PsCOI1OWRo_CaDoodle_CylinderHoleGeneration_Sides": {
     "name": "Dazzling_Siren_PsCOI1OWRo_CaDoodle_CylinderHoleGeneration_Sides",
@@ -28378,6 +28274,30 @@
     ],
     "strValue": "v5_Vexnet"
   },
+  "Test_key_here_CaDoodle_StarSide_Points": {
+    "name": "Test_key_here_CaDoodle_StarSide_Points",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "value": 6000
+  },
   "Creative_Sasquatch_5EcwItfXdT_CaDoodle_TubeBottom_Rad": {
     "name": "Creative_Sasquatch_5EcwItfXdT_CaDoodle_TubeBottom_Rad",
     "options": [],
@@ -28759,6 +28679,23 @@
     "options": [],
     "strValue": "Text"
   },
+  "timingBelt Default": {
+    "name": "timingBelt Default",
+    "options": [
+      "AT10",
+      "AT20",
+      "AT5",
+      "GT2",
+      "H",
+      "L",
+      "T10",
+      "T20",
+      "T5",
+      "XH",
+      "XL"
+    ],
+    "strValue": "XL"
+  },
   "Glistening_Gorgon_zfvKUpVqyi_CaDoodle_TextGeneration_Font": {
     "name": "Glistening_Gorgon_zfvKUpVqyi_CaDoodle_TextGeneration_Font",
     "options": [
@@ -28786,23 +28723,6 @@
       "Arial"
     ],
     "strValue": "Arial"
-  },
-  "timingBelt Default": {
-    "name": "timingBelt Default",
-    "options": [
-      "AT10",
-      "AT20",
-      "AT5",
-      "GT2",
-      "H",
-      "L",
-      "T10",
-      "T20",
-      "T5",
-      "XH",
-      "XL"
-    ],
-    "strValue": "XL"
   },
   "Lush_Elf_ODKNbt4uT3_CaDoodle_TextGeneration_Size": {
     "name": "Lush_Elf_ODKNbt4uT3_CaDoodle_TextGeneration_Size",
@@ -29329,13 +29249,6 @@
     "strValue": "M8"
   },
   "Joyous_Warpcraft_fUI8rLoKal_CaDoodle_TextGeneration_Size": {
-    "options2": [
-      "oneEighth",
-      "oneHalf",
-      "oneQuater",
-      "threeEighth",
-      "washer"
-    ],
     "name": "Joyous_Warpcraft_fUI8rLoKal_CaDoodle_TextGeneration_Size",
     "options": [
       "oneEighth",
@@ -29346,11 +29259,6 @@
     ],
     "strValue": "washer"
   },
-  "Jaunty_Maglev_0j0AFOzeMM_CaDoodle_ConeBottom_Bottom": {
-    "name": "Jaunty_Maglev_0j0AFOzeMM_CaDoodle_ConeBottom_Bottom",
-    "options": [],
-    "value": 5500
-  },
   "Axle Length": {
     "name": "Axle Length",
     "options": [
@@ -29358,6 +29266,11 @@
       "152.4"
     ],
     "value": 50800
+  },
+  "Jaunty_Maglev_0j0AFOzeMM_CaDoodle_ConeBottom_Bottom": {
+    "name": "Jaunty_Maglev_0j0AFOzeMM_CaDoodle_ConeBottom_Bottom",
+    "options": [],
+    "value": 5500
   },
   "Lustrous_Specter_zxZDkzJHAH_CaDoodle_ShereGeneration_Sides": {
     "name": "Lustrous_Specter_zxZDkzJHAH_CaDoodle_ShereGeneration_Sides",
@@ -29644,21 +29557,6 @@
     "value": 16000
   },
   "vexFlatSheet Default": {
-    "options2": [
-      "Aluminum 1x10",
-      "Aluminum 1x15",
-      "Aluminum 1x5",
-      "Aluminum 5x10",
-      "Aluminum 5x15",
-      "Aluminum 5x5",
-      "Steel 10x10",
-      "Steel 1x10",
-      "Steel 1x15",
-      "Steel 1x5",
-      "Steel 5x10",
-      "Steel 5x15",
-      "Steel 5x5"
-    ],
     "name": "vexFlatSheet Default",
     "options": [
       "Aluminum 1x10",
@@ -30944,11 +30842,6 @@
     "strValue": "Arial"
   },
   "Peppy_Unicorn_SyTwbSQqG9_CaDoodle_TextGeneration_Size": {
-    "options2": [
-      "269",
-      "393",
-      "v5_11w"
-    ],
     "name": "Peppy_Unicorn_SyTwbSQqG9_CaDoodle_TextGeneration_Size",
     "options": [
       "269",
@@ -31444,27 +31337,6 @@
     "strValue": "2x10mm"
   },
   "vexCchannel Default": {
-    "options2": [
-      "Aluminum 2x15",
-      "Aluminum 2x35",
-      "Aluminum 3x15",
-      "Aluminum 3x35",
-      "Aluminum 3x5",
-      "Aluminum 5x15",
-      "Aluminum 5x35",
-      "Aluminum 5x5",
-      "Aluminum_1x2x10",
-      "Aluminum_1x2x25",
-      "Steel 2x15",
-      "Steel 2x35",
-      "Steel 2x5",
-      "Steel 3x15",
-      "Steel 3x35",
-      "Steel 3x5",
-      "Steel 5x15",
-      "Steel 5x35",
-      "Steel 5x5"
-    ],
     "name": "vexCchannel Default",
     "options": [
       "Aluminum 2x15",
@@ -31956,6 +31828,21 @@
     "options": [],
     "value": 20000
   },
+  "vexGear Default": {
+    "name": "vexGear Default",
+    "options": [
+      "12T",
+      "15T",
+      "36T",
+      "60T",
+      "84T",
+      "HS12T",
+      "HS36T",
+      "HS60T",
+      "HS84T"
+    ],
+    "strValue": "HS84T"
+  },
   "Zestful_Troll_9OSOd07ldf_CaDoodle_CylinderHoleGeneration_Sides": {
     "name": "Zestful_Troll_9OSOd07ldf_CaDoodle_CylinderHoleGeneration_Sides",
     "options": [
@@ -31979,32 +31866,6 @@
       "64"
     ],
     "value": 16000
-  },
-  "vexGear Default": {
-    "options2": [
-      "12T",
-      "15T",
-      "36T",
-      "60T",
-      "84T",
-      "HS12T",
-      "HS36T",
-      "HS60T",
-      "HS84T"
-    ],
-    "name": "vexGear Default",
-    "options": [
-      "12T",
-      "15T",
-      "36T",
-      "60T",
-      "84T",
-      "HS12T",
-      "HS36T",
-      "HS60T",
-      "HS84T"
-    ],
-    "strValue": "HS84T"
   },
   "Resplendent_Monorail_ropBDAH2o7_CaDoodle_ConeSide_Sides": {
     "name": "Resplendent_Monorail_ropBDAH2o7_CaDoodle_ConeSide_Sides",
@@ -32109,11 +31970,6 @@
     ],
     "strValue": "6 inch"
   },
-  "Radiant_Wraith_B9kUmp0KNB_CaDoodle_ToroidBottom_Outer": {
-    "name": "Radiant_Wraith_B9kUmp0KNB_CaDoodle_ToroidBottom_Outer",
-    "options": [],
-    "value": 10000
-  },
   "LewanSoulHorn Default": {
     "name": "LewanSoulHorn Default",
     "options": [
@@ -32122,6 +31978,11 @@
       "round_m3_bolts"
     ],
     "strValue": "round_m3_bolts"
+  },
+  "Radiant_Wraith_B9kUmp0KNB_CaDoodle_ToroidBottom_Outer": {
+    "name": "Radiant_Wraith_B9kUmp0KNB_CaDoodle_ToroidBottom_Outer",
+    "options": [],
+    "value": 10000
   },
   "Zappy_Unicorn_1gIaH3SUer_CaDoodle_CylinderHoleGeneration_Sides": {
     "name": "Zappy_Unicorn_1gIaH3SUer_CaDoodle_CylinderHoleGeneration_Sides",
@@ -32935,19 +32796,6 @@
     "strValue": "M3x8"
   },
   "Amazing_Hoversled_X0kBmGdmoT_CaDoodle_TextGeneration_Size": {
-    "options2": [
-      "0.25 inch",
-      "0.5 inch",
-      "0.75 inch",
-      "1 inch",
-      "1.5 inch",
-      "2 inch",
-      "2.5 inch",
-      "3 inch",
-      "4 inch",
-      "5 inch",
-      "6 inch"
-    ],
     "name": "Amazing_Hoversled_X0kBmGdmoT_CaDoodle_TextGeneration_Size",
     "options": [
       "0.25 inch",
@@ -34689,7 +34537,7 @@
     "options2": [],
     "name": "CaDoodle_File_Location",
     "options": [],
-    "strValue": "/home/hephaestus/Documents/CaDoodle-workspace/MyCaDoodleProjects/Doodle-3/Doodle-3.doodle"
+    "strValue": "/home/hephaestus/Documents/bowler-workspace/gitcache/github.com/madhephaestus/Ninja-Mask-Pipeline/Doodle-3.doodle"
   },
   "Effervescent_Robot_Yv2McJLI0A_CaDoodle_TextGeneration_Size": {
     "name": "Effervescent_Robot_Yv2McJLI0A_CaDoodle_TextGeneration_Size",
@@ -35345,9 +35193,6 @@
     "strValue": "Arial"
   },
   "VexBattery Default": {
-    "options2": [
-      "v5_14wh"
-    ],
     "name": "VexBattery Default",
     "options": [
       "v5_14wh"
@@ -37111,6 +36956,11 @@
     ],
     "strValue": "Flat_Bearing"
   },
+  "Test_key_here_CaDoodle_ConeBottom_Outer": {
+    "name": "Test_key_here_CaDoodle_ConeBottom_Outer",
+    "options": [],
+    "value": 10000
+  },
   "Fabulous_Mech_49LIltGlfDSJCUodikbn41tT3QCGEUiajyTXkUDL_CaDoodle_CylinderGeneration_Sides": {
     "name": "Fabulous_Mech_49LIltGlfDSJCUodikbn41tT3QCGEUiajyTXkUDL_CaDoodle_CylinderGeneration_Sides",
     "options": [
@@ -37230,7 +37080,7 @@
     "options2": [],
     "name": "Chirpy_Cyclops_hunE6Z3B0q_CaDoodle_File",
     "options": [],
-    "strValue": "/home/hephaestus/Documents/CaDoodle-workspace/MyCaDoodleProjects/Doodle-3/Chirpy_Cyclops_hunE6Z3B0q.blend"
+    "strValue": "/home/hephaestus/Documents/bowler-workspace/gitcache/github.com/madhephaestus/Ninja-Mask-Pipeline/Chirpy_Cyclops_hunE6Z3B0q.blend"
   },
   "Vivacious_Vortexer_2pU9yA7ZIu_CaDoodle_Tube_Wall": {
     "name": "Vivacious_Vortexer_2pU9yA7ZIu_CaDoodle_Tube_Wall",
@@ -37259,6 +37109,30 @@
       "14"
     ],
     "value": 8000
+  },
+  "Test_key_here_CaDoodle_ConeSide_Points": {
+    "name": "Test_key_here_CaDoodle_ConeSide_Points",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 16000
   },
   "Lively_Telekinetic_bCelmAqJwZdrzhb4mRHuMnaUWyDQJbvzqVOUBAHa_CaDoodle_TextGeneration_Value": {
     "name": "Lively_Telekinetic_bCelmAqJwZdrzhb4mRHuMnaUWyDQJbvzqVOUBAHa_CaDoodle_TextGeneration_Value",
@@ -37375,6 +37249,11 @@
       "19",
       "20"
     ],
+    "value": 20000
+  },
+  "Test_key_here_CaDoodle_ConeTop_Outer": {
+    "name": "Test_key_here_CaDoodle_ConeTop_Outer",
+    "options": [],
     "value": 20000
   },
   "Glittering_Airship_L2i1i6uqR4_CaDoodle_TextGeneration_Size": {
