@@ -1,0 +1,2883 @@
+{
+  "opperations": [
+    {
+      "type": "AddFromFile",
+      "data": {
+        "name": "Chirpy_Cyclops_hunE6Z3B0q",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -10.0868240103097,
+          "y": 0.0,
+          "z": -7.738727855830891,
+          "rotation": {
+            "w": 0.893212136122471,
+            "x": 0.0,
+            "y": -0.4496354966898547,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Chirpy_Cyclops_hunE6Z3B0q"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 22.089599909844114,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Chirpy_Cyclops_hunE6Z3B0q"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.4946610610538631,
+          "y": 0.0,
+          "z": 0.20066274721149568,
+          "rotation": {
+            "w": 0.9999619153562231,
+            "x": 0.0,
+            "y": 0.008727418697050703,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Chirpy_Cyclops_hunE6Z3B0q"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.6071358802526792,
+          "y": 8.881784197001252E-16,
+          "z": 0.2453084937679968,
+          "rotation": {
+            "w": 0.999942305494604,
+            "x": 0.0,
+            "y": 0.010741772765055632,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Chirpy_Cyclops_hunE6Z3B0q"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinder.groovy",
+        "name": "Vibrant_Automaton_JauKRmGxOX",
+        "location": {
+          "x": 1.0,
+          "y": 54.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.7071067811865476,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.7071067811865475
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Vibrant_Automaton_JauKRmGxOX"
+        ],
+        "height": {
+          "x": 1.0,
+          "y": 61.285,
+          "z": 20.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 11.0,
+          "y": 64.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -9.0,
+          "y": 58.57,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Vibrant_Automaton_JauKRmGxOX"
+        ],
+        "height": {
+          "x": 8.285,
+          "y": 61.285,
+          "z": 20.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 11.0,
+          "y": 64.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 5.57,
+          "y": 58.57,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Vibrant_Automaton_JauKRmGxOX"
+        ],
+        "height": {
+          "x": 8.285,
+          "y": 61.285,
+          "z": 2.3000000000000007,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 11.0,
+          "y": 64.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 5.57,
+          "y": 58.57,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Vibrant_Automaton_JauKRmGxOX"
+        ],
+        "height": {
+          "x": 8.285,
+          "y": 61.285,
+          "z": 2.4,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 11.0,
+          "y": 64.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 5.57,
+          "y": 58.57,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinder.groovy",
+        "name": "Zealous_Phoenix_GG5vx9yikp",
+        "location": {
+          "x": 8.0,
+          "y": 63.0,
+          "z": 2.0,
+          "rotation": {
+            "w": 0.7071067811865476,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.7071067811865475
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Zealous_Phoenix_GG5vx9yikp"
+        ],
+        "height": {
+          "x": 8.0,
+          "y": 58.4,
+          "z": 22.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 18.0,
+          "y": 63.8,
+          "z": 2.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -1.9999999999999998,
+          "y": 53.0,
+          "z": 2.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Zealous_Phoenix_GG5vx9yikp"
+        ],
+        "height": {
+          "x": 3.4000000000000004,
+          "y": 58.4,
+          "z": 22.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 8.8,
+          "y": 63.8,
+          "z": 2.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -1.9999999999999998,
+          "y": 53.0,
+          "z": 2.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Allign",
+      "data": {
+        "names": [
+          "Zealous_Phoenix_GG5vx9yikp",
+          "Vibrant_Automaton_JauKRmGxOX"
+        ],
+        "y": "middle",
+        "x": "middle",
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "bounds": {
+          "minx": -1.9999999999999998,
+          "miny": 53.0,
+          "minz": 0.0,
+          "maxx": 11.0,
+          "maxy": 64.0,
+          "maxz": 22.0
+        }
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cube.groovy",
+        "name": "Resplendent_Mech_r4Bo690eVu",
+        "location": {
+          "x": 7.0,
+          "y": 61.0,
+          "z": 22.0,
+          "rotation": {
+            "w": 0.7071067811865476,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.7071067811865475
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Resplendent_Mech_r4Bo690eVu"
+        ],
+        "height": {
+          "x": 7.105427357601002E-15,
+          "y": -5.3999999999999995,
+          "z": 20.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 10.000000000000007,
+          "y": -0.7999999999999989,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -10.0,
+          "y": -10.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 7.0,
+          "y": 61.0,
+          "z": 22.0,
+          "rotation": {
+            "w": 0.7071067811865476,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.7071067811865475
+          }
+        }
+      }
+    },
+    {
+      "type": "Allign",
+      "data": {
+        "names": [
+          "Zealous_Phoenix_GG5vx9yikp",
+          "Resplendent_Mech_r4Bo690eVu"
+        ],
+        "y": "middle",
+        "x": "middle",
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "bounds": {
+          "minx": -0.9000000000000004,
+          "miny": 53.1,
+          "minz": 2.0,
+          "maxx": 9.9,
+          "maxy": 63.9,
+          "maxz": 22.0
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 2.6645352591003757E-15,
+          "y": 0.0,
+          "z": -20.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Resplendent_Mech_r4Bo690eVu"
+        ]
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Resplendent_Mech_r4Bo690eVu"
+        ],
+        "height": {
+          "x": 8.5,
+          "y": 1.4999999999999973,
+          "z": 29.6,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 18.500000000000007,
+          "y": 6.100000000000001,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -1.5,
+          "y": -3.1000000000000103,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 6.0,
+          "y": 67.0,
+          "z": 22.0,
+          "rotation": {
+            "w": 4.329780281177467E-17,
+            "x": 0.7071067811865476,
+            "y": -0.7071067811865475,
+            "z": 4.329780281177466E-17
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Resplendent_Mech_r4Bo690eVu"
+        ],
+        "height": {
+          "x": 8.5,
+          "y": 1.4999999999999956,
+          "z": 8.600000000000001,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 18.500000000000007,
+          "y": 6.100000000000001,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -1.5,
+          "y": -3.1000000000000103,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 6.0,
+          "y": 67.0,
+          "z": 22.0,
+          "rotation": {
+            "w": 4.329780281177467E-17,
+            "x": 0.7071067811865476,
+            "y": -0.7071067811865475,
+            "z": 4.329780281177466E-17
+          }
+        }
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cube.groovy",
+        "name": "Magnificent_Kraken_OasRlNzptl",
+        "location": {
+          "x": 23.0,
+          "y": 57.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.7071067811865476,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.7071067811865475
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Magnificent_Kraken_OasRlNzptl"
+        ],
+        "height": {
+          "x": 23.0,
+          "y": 57.0,
+          "z": 2.6000000000000014,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 33.0,
+          "y": 67.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 13.0,
+          "y": 47.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Magnificent_Kraken_OasRlNzptl"
+        ],
+        "height": {
+          "x": 23.0,
+          "y": 51.2,
+          "z": 2.6000000000000014,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 33.0,
+          "y": 55.4,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 13.0,
+          "y": 47.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Magnificent_Kraken_OasRlNzptl"
+        ],
+        "height": {
+          "x": 28.0,
+          "y": 51.2,
+          "z": 2.6000000000000014,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 33.0,
+          "y": 55.4,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 23.0,
+          "y": 47.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 3.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Magnificent_Kraken_OasRlNzptl"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.5999999999999996,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Magnificent_Kraken_OasRlNzptl"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -18.0,
+          "y": 8.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Magnificent_Kraken_OasRlNzptl"
+        ]
+      }
+    },
+    {
+      "type": "Allign",
+      "data": {
+        "names": [
+          "Magnificent_Kraken_OasRlNzptl",
+          "Zealous_Phoenix_GG5vx9yikp"
+        ],
+        "y": "middle",
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "bounds": {
+          "minx": -0.9000000000000004,
+          "miny": 53.1,
+          "minz": 2.0,
+          "maxx": 9.9,
+          "maxy": 63.9,
+          "maxz": 22.0
+        }
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Vibrant_Automaton_JauKRmGxOX",
+          "Zealous_Phoenix_GG5vx9yikp",
+          "Magnificent_Kraken_OasRlNzptl",
+          "Resplendent_Mech_r4Bo690eVu"
+        ],
+        "groupID": "Gleeful_Droid_vQDvwITx4m",
+        "hull": false
+      }
+    },
+    {
+      "type": "ToHole",
+      "data": {
+        "names": [
+          "Gleeful_Droid_vQDvwITx4m"
+        ]
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Chirpy_Cyclops_hunE6Z3B0q"
+        ],
+        "height": {
+          "x": -10.920981065138122,
+          "y": -4.352000045776368,
+          "z": 56.467416726563116,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 6.954401280818898,
+          "y": 2.3479999542236314,
+          "z": 0.1256631711958361,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -28.796363411095143,
+          "y": -11.052000045776367,
+          "z": 0.1256631711958361,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Chirpy_Cyclops_hunE6Z3B0q"
+        ],
+        "height": {
+          "x": -1.1955987191811026,
+          "y": -4.352000045776368,
+          "z": 56.467416726563116,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 6.954401280818898,
+          "y": 2.3479999542236314,
+          "z": 0.1256631711958361,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -9.345598719181101,
+          "y": -11.052000045776367,
+          "z": 0.1256631711958361,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Chirpy_Cyclops_hunE6Z3B0q"
+        ],
+        "height": {
+          "x": -1.1955987191811026,
+          "y": -4.352000045776368,
+          "z": 25.72566317119584,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 6.954401280818896,
+          "y": 2.3479999542236314,
+          "z": 0.1256631711958361,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -9.345598719181101,
+          "y": -11.052000045776367,
+          "z": 0.1256631711958361,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -6.0,
+          "y": -63.0,
+          "z": 5.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Gleeful_Droid_vQDvwITx4m"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Gleeful_Droid_vQDvwITx4m"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.1,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Gleeful_Droid_vQDvwITx4m"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": -0.1,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Gleeful_Droid_vQDvwITx4m"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.20000000000000004,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Gleeful_Droid_vQDvwITx4m"
+        ]
+      }
+    },
+    {
+      "type": "UnGroup",
+      "data": {
+        "names": [
+          "Gleeful_Droid_vQDvwITx4m"
+        ]
+      }
+    },
+    {
+      "type": "Hide",
+      "data": {
+        "names": [
+          "Chirpy_Cyclops_hunE6Z3B0q"
+        ]
+      }
+    },
+    {
+      "type": "ToHole",
+      "data": {
+        "names": [
+          "Vibrant_Automaton_JauKRmGxOX",
+          "Resplendent_Mech_r4Bo690eVu",
+          "Zealous_Phoenix_GG5vx9yikp",
+          "Magnificent_Kraken_OasRlNzptl"
+        ]
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Magnificent_Kraken_OasRlNzptl"
+        ],
+        "height": {
+          "x": 5.099999999999999,
+          "y": -4.600000000000003,
+          "z": 12.099999999999994,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 10.1,
+          "y": -0.4000000000000039,
+          "z": 9.799999999999995,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 0.09999999999999787,
+          "y": -8.800000000000002,
+          "z": 9.799999999999995,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Vibrant_Automaton_JauKRmGxOX",
+          "Resplendent_Mech_r4Bo690eVu",
+          "Zealous_Phoenix_GG5vx9yikp",
+          "Magnificent_Kraken_OasRlNzptl"
+        ],
+        "groupID": "Prolific_Chimera_b3sOwptptA",
+        "hull": false
+      }
+    },
+    {
+      "type": "Show",
+      "data": {
+        "names": [
+          "Chirpy_Cyclops_hunE6Z3B0q"
+        ]
+      }
+    },
+    {
+      "type": "Hide",
+      "data": {
+        "names": [
+          "Chirpy_Cyclops_hunE6Z3B0q"
+        ]
+      }
+    },
+    {
+      "type": "UnGroup",
+      "data": {
+        "names": [
+          "Prolific_Chimera_b3sOwptptA"
+        ]
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Vibrant_Automaton_JauKRmGxOX"
+        ],
+        "height": {
+          "x": -0.3999999999999999,
+          "y": -4.599999999999997,
+          "z": 7.600000000000002,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 2.3150000000000004,
+          "y": -1.8849999999999967,
+          "z": 5.199999999999999,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -3.115,
+          "y": -7.314999999999998,
+          "z": 5.199999999999999,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Vibrant_Automaton_JauKRmGxOX"
+        ],
+        "height": {
+          "x": -0.3999999999999999,
+          "y": -4.749999999999998,
+          "z": 7.600000000000002,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 2.3150000000000004,
+          "y": -2.1849999999999983,
+          "z": 5.199999999999999,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -3.115,
+          "y": -7.314999999999998,
+          "z": 5.199999999999999,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Vibrant_Automaton_JauKRmGxOX"
+        ],
+        "height": {
+          "x": -0.5500000000000003,
+          "y": -4.749999999999998,
+          "z": 7.600000000000002,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 2.0149999999999997,
+          "y": -2.1849999999999987,
+          "z": 5.199999999999999,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -3.115,
+          "y": -7.314999999999998,
+          "z": 5.199999999999999,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Allign",
+      "data": {
+        "names": [
+          "Vibrant_Automaton_JauKRmGxOX",
+          "Zealous_Phoenix_GG5vx9yikp"
+        ],
+        "y": "middle",
+        "x": "middle",
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "bounds": {
+          "minx": -5.800000000000001,
+          "miny": -10.0,
+          "minz": 7.199999999999999,
+          "maxx": 5.0,
+          "maxy": 0.7999999999999987,
+          "maxz": 27.200000000000003
+        }
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Resplendent_Mech_r4Bo690eVu",
+          "Magnificent_Kraken_OasRlNzptl",
+          "Zealous_Phoenix_GG5vx9yikp",
+          "Vibrant_Automaton_JauKRmGxOX"
+        ],
+        "groupID": "Superb_Golem_pR0rXAxlSS",
+        "hull": false
+      }
+    },
+    {
+      "type": "Show",
+      "data": {
+        "names": [
+          "Chirpy_Cyclops_hunE6Z3B0q"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": -1.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Superb_Golem_pR0rXAxlSS"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Superb_Golem_pR0rXAxlSS"
+        ]
+      }
+    },
+    {
+      "type": "Hide",
+      "data": {
+        "names": [
+          "Chirpy_Cyclops_hunE6Z3B0q"
+        ]
+      }
+    },
+    {
+      "type": "UnGroup",
+      "data": {
+        "names": [
+          "Superb_Golem_pR0rXAxlSS"
+        ]
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Vibrant_Automaton_JauKRmGxOX"
+        ],
+        "height": {
+          "x": -0.3999999999999999,
+          "y": -4.550000000000001,
+          "z": 6.600000000000003,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 2.165000000000001,
+          "y": -1.935000000000001,
+          "z": 4.199999999999999,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -2.9650000000000007,
+          "y": -7.165000000000001,
+          "z": 4.199999999999999,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Vibrant_Automaton_JauKRmGxOX"
+        ],
+        "height": {
+          "x": -0.35000000000000053,
+          "y": -4.550000000000001,
+          "z": 6.600000000000003,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 2.2649999999999997,
+          "y": -1.9350000000000014,
+          "z": 4.199999999999999,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -2.9650000000000007,
+          "y": -7.165000000000001,
+          "z": 4.199999999999999,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Allign",
+      "data": {
+        "names": [
+          "Vibrant_Automaton_JauKRmGxOX",
+          "Zealous_Phoenix_GG5vx9yikp"
+        ],
+        "y": "middle",
+        "x": "middle",
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "bounds": {
+          "minx": -5.800000000000001,
+          "miny": -10.000000000000002,
+          "minz": 6.199999999999999,
+          "maxx": 5.0,
+          "maxy": 0.7999999999999985,
+          "maxz": 26.200000000000003
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Magnificent_Kraken_OasRlNzptl"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.400000000000004,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Magnificent_Kraken_OasRlNzptl"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Resplendent_Mech_r4Bo690eVu",
+          "Magnificent_Kraken_OasRlNzptl",
+          "Zealous_Phoenix_GG5vx9yikp",
+          "Vibrant_Automaton_JauKRmGxOX"
+        ],
+        "groupID": "Effervescent_Levitator_yQLpLmveBB",
+        "hull": false
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Effervescent_Levitator_yQLpLmveBB"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": -2.999999999999999,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Effervescent_Levitator_yQLpLmveBB"
+        ]
+      }
+    },
+    {
+      "type": "Show",
+      "data": {
+        "names": [
+          "Chirpy_Cyclops_hunE6Z3B0q"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Effervescent_Levitator_yQLpLmveBB"
+        ]
+      }
+    },
+    {
+      "type": "Hide",
+      "data": {
+        "names": [
+          "Chirpy_Cyclops_hunE6Z3B0q"
+        ]
+      }
+    },
+    {
+      "type": "UnGroup",
+      "data": {
+        "names": [
+          "Effervescent_Levitator_yQLpLmveBB"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Magnificent_Kraken_OasRlNzptl"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.5,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Magnificent_Kraken_OasRlNzptl"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.1999999999999993,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Magnificent_Kraken_OasRlNzptl"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Resplendent_Mech_r4Bo690eVu",
+          "Magnificent_Kraken_OasRlNzptl",
+          "Zealous_Phoenix_GG5vx9yikp",
+          "Vibrant_Automaton_JauKRmGxOX"
+        ],
+        "groupID": "Creative_Goblin_6z8qfqdUoP",
+        "hull": false
+      }
+    },
+    {
+      "type": "Show",
+      "data": {
+        "names": [
+          "Chirpy_Cyclops_hunE6Z3B0q"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Creative_Goblin_6z8qfqdUoP",
+          "Chirpy_Cyclops_hunE6Z3B0q"
+        ],
+        "groupID": "Burgeoning_Maglev_lo9UkckFH1",
+        "hull": false
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cube.groovy",
+        "name": "Energetic_Hoversled_uWumVWsLEx",
+        "location": {
+          "x": -19.0,
+          "y": 17.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.7071067811865476,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.7071067811865475
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Energetic_Hoversled_uWumVWsLEx"
+        ],
+        "height": {
+          "x": -19.0,
+          "y": 17.0,
+          "z": 20.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": -9.0,
+          "y": 27.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -29.0,
+          "y": 7.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Energetic_Hoversled_uWumVWsLEx"
+        ],
+        "height": {
+          "x": -19.0,
+          "y": 17.0,
+          "z": 3.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": -9.0,
+          "y": 27.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -29.0,
+          "y": 7.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Energetic_Hoversled_uWumVWsLEx"
+        ],
+        "height": {
+          "x": -19.0,
+          "y": 10.5,
+          "z": 3.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": -9.0,
+          "y": 14.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -29.0,
+          "y": 7.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Energetic_Hoversled_uWumVWsLEx"
+        ],
+        "height": {
+          "x": -11.0,
+          "y": 10.5,
+          "z": 3.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": -9.0,
+          "y": 14.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -13.0,
+          "y": 7.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -12.0,
+          "y": -17.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Energetic_Hoversled_uWumVWsLEx"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "hexagon.groovy",
+        "name": "Thriving_Goliath_9D0wtyQTv2",
+        "location": {
+          "x": -39.0,
+          "y": -7.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.7071067811865476,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.7071067811865475
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Thriving_Goliath_9D0wtyQTv2"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Thriving_Goliath_9D0wtyQTv2"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -46.00000000000001,
+          "y": 30.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.7071067811865475,
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071067811865476
+          }
+        },
+        "names": [
+          "Thriving_Goliath_9D0wtyQTv2"
+        ]
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Thriving_Goliath_9D0wtyQTv2"
+        ],
+        "height": {
+          "x": -38.0,
+          "y": -16.5,
+          "z": 20.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": -26.452994616207484,
+          "y": -15.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -49.547005383792516,
+          "y": -18.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Thriving_Goliath_9D0wtyQTv2"
+        ],
+        "height": {
+          "x": -28.102994616207482,
+          "y": -16.5,
+          "z": 20.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": -26.452994616207484,
+          "y": -15.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -29.752994616207484,
+          "y": -18.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "ToHole",
+      "data": {
+        "names": [
+          "Thriving_Goliath_9D0wtyQTv2"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 4.0,
+          "y": 10.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Thriving_Goliath_9D0wtyQTv2"
+        ]
+      }
+    },
+    {
+      "type": "Allign",
+      "data": {
+        "names": [
+          "Energetic_Hoversled_uWumVWsLEx",
+          "Thriving_Goliath_9D0wtyQTv2"
+        ],
+        "y": "middle",
+        "x": "negative",
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "bounds": {
+          "minx": -25.75299461620749,
+          "miny": -10.0,
+          "minz": -3.552713678800501E-15,
+          "maxx": -21.0,
+          "maxy": -3.0,
+          "maxz": 20.000000000000004
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -1.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Thriving_Goliath_9D0wtyQTv2"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.4,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Thriving_Goliath_9D0wtyQTv2"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Thriving_Goliath_9D0wtyQTv2",
+          "Energetic_Hoversled_uWumVWsLEx"
+        ],
+        "groupID": "Elated_Warpcraft_K8oZqsy41v",
+        "hull": false
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -25.252994616207495,
+          "y": 0.0,
+          "z": -22.252994616207495,
+          "rotation": {
+            "w": 0.7071067811865475,
+            "x": 0.0,
+            "y": -0.7071067811865476,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Elated_Warpcraft_K8oZqsy41v"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -30.252994616207495,
+          "y": 17.25299461620749,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.7071067811865475,
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071067811865476
+          }
+        },
+        "names": [
+          "Elated_Warpcraft_K8oZqsy41v"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -47.505989232414976,
+          "y": 0.0,
+          "z": 2.9999999999999822,
+          "rotation": {
+            "w": -2.220446049250313E-16,
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Elated_Warpcraft_K8oZqsy41v"
+        ]
+      }
+    },
+    {
+      "type": "UnGroup",
+      "data": {
+        "names": [
+          "Elated_Warpcraft_K8oZqsy41v"
+        ]
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Thriving_Goliath_9D0wtyQTv2"
+        ],
+        "height": {
+          "x": -23.75299461620748,
+          "y": -5.5,
+          "z": 2.2000000000000064,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": -22.252994616207477,
+          "y": -3.0,
+          "z": -1.100000000000005,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -25.252994616207488,
+          "y": -8.0,
+          "z": -1.100000000000005,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": -1.2,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Thriving_Goliath_9D0wtyQTv2"
+        ]
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Energetic_Hoversled_uWumVWsLEx"
+        ],
+        "height": {
+          "x": -23.752994616207488,
+          "y": -6.4999999999999964,
+          "z": 7.399999999999999,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": -20.252994616207484,
+          "y": -4.999999999999993,
+          "z": -0.5000000000000053,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -27.252994616207488,
+          "y": -8.0,
+          "z": -0.5000000000000053,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Energetic_Hoversled_uWumVWsLEx",
+          "Thriving_Goliath_9D0wtyQTv2"
+        ],
+        "groupID": "Bountiful_Robot_owsWPwGdKf",
+        "hull": false
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -6.735150873654167,
+          "y": 11.300217627647722,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.9636702290051271,
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.267094907718597
+          }
+        },
+        "names": [
+          "Bountiful_Robot_owsWPwGdKf"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -4.409898600217553,
+          "y": -30.2089726098759,
+          "z": 8.18418085091202,
+          "rotation": {
+            "w": 0.6061160083678102,
+            "x": 0.5721233462362123,
+            "y": -0.3792736248896749,
+            "z": 0.40180813649650987
+          }
+        },
+        "names": [
+          "Bountiful_Robot_owsWPwGdKf"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 2.800000000000001,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Bountiful_Robot_owsWPwGdKf"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.30000000000000004,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Bountiful_Robot_owsWPwGdKf"
+        ]
+      }
+    },
+    {
+      "type": "UnGroup",
+      "data": {
+        "names": [
+          "Burgeoning_Maglev_lo9UkckFH1"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Bountiful_Robot_owsWPwGdKf",
+          "Creative_Goblin_6z8qfqdUoP",
+          "Chirpy_Cyclops_hunE6Z3B0q"
+        ],
+        "groupID": "Bountiful_Unicorn_osIrzcFYwh",
+        "hull": false
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 12.7,
+          "y": 12.7,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Bountiful_Unicorn_osIrzcFYwh"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Bountiful_Unicorn_osIrzcFYwh"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.16085649535989788,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Bountiful_Unicorn_osIrzcFYwh"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": -0.5654089034810639,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Bountiful_Unicorn_osIrzcFYwh"
+        ]
+      }
+    }
+  ],
+  "currentIndex": 110,
+  "timeCreated": 1729089571982,
+  "projectName": "Ninja Mask Pipeline",
+  "workplane": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  }
+}
