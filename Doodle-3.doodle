@@ -2785,88 +2785,12 @@
           "Creative_Goblin_6z8qfqdUoP",
           "Chirpy_Cyclops_hunE6Z3B0q"
         ],
-        "groupID": "Bountiful_Unicorn_osIrzcFYwh",
+        "groupID": "Shimmering_Robot_MGsBtXDcEF",
         "hull": false
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 12.7,
-          "y": 12.7,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "Bountiful_Unicorn_osIrzcFYwh"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "Bountiful_Unicorn_osIrzcFYwh"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.16085649535989788,
-          "y": 0.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "Bountiful_Unicorn_osIrzcFYwh"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": -0.5654089034810639,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "Bountiful_Unicorn_osIrzcFYwh"
-        ]
       }
     }
   ],
-  "currentIndex": 110,
+  "currentIndex": 106,
   "timeCreated": 1729089571982,
   "projectName": "Ninja Mask Pipeline",
   "workplane": {
